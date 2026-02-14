@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[我的私人 AI 播客]]></title>
+    <link>https://github.com</link>
+    <language>zh-cn</language>
+    <description><![CDATA[NotebookLM 自动同步]]></description>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://raw.githubusercontent.com/zhangfeixiang1994-web/my-podcast/main/cover.jpg"/>
+    
+    <item>
+      <title><![CDATA[懂物理的AI世界模型重塑工业.m4a]]></title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w2965hfJieSYKw8KTay4e0Wvuw6LykLr&amp;confirm=t" length="0" type="audio/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 15:03:34 GMT</pubDate>
+      <guid isPermaLink="false">1w2965hfJieSYKw8KTay4e0Wvuw6LykLr</guid>
+    </item>
+  </channel>
+</rss>
